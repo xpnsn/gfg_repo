@@ -18,7 +18,7 @@ public class rearrangeArray {
     }
 
     public static void main(String[] args) {
-        long arr[] = {1,2,3,4,5,6};
+        long arr[] = {1,2,3,4,5,6,7,8,9,10};
         rearrange(arr, arr.length);
         System.out.println(Arrays.toString(arr));
     }
